@@ -33,5 +33,5 @@ p {
 }
 
 section {
-    @apply py-32 text-center;
+    @apply py-28  text-center;
 }
